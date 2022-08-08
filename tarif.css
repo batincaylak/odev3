@@ -1,0 +1,29 @@
+body {
+  background-color: #deb887;
+}
+
+h3 {
+  color: darkred;
+  text-align: center;
+}
+
+#p-1 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10;
+}
+
+#kisi-sure {
+  text-align: center;
+}
+
+#right {
+  text-align: right;
+  font-size: 1.5em;
+  font-family: monospace;
+}
